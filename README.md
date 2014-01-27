@@ -13,3 +13,5 @@ Tään tulis vaikka jotain sisältöjä
       1     1          1             1
 
 Table:  Demonstration of simple table syntax.
+
+![](http://static.yle.fi/global/api/ylefilogo.png)
