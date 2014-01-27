@@ -15,3 +15,13 @@ Tään tulis vaikka jotain sisältöjä
 Table:  Demonstration of simple table syntax.
 
 ![](http://static.yle.fi/global/api/ylefilogo.png)
+
+
+| sarake 1 | sarake 2 |
+| --- | ---- |
+| solu 1 | solu 2 |
+| solu 1 | solu 2 |
+| solu 1 | solu 2 |
+| solu 1 | solu 2 |
+| solu 1 | solu 2 |
+| solu 1 | solu 2 |
